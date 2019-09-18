@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<PackageId>Industrious.Mvvm</PackageId>
+	<Title>Industrious.Mvvm</Title>
+	<Authors>industriousone</Authors>
+	<Company>Industrious One</Company>
+	<Description>A small collection of general purpose MVVM helpers for any platform.</Description>
+	<Copyright>Copyright © Industrious One</Copyright>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageTags>mvvm</PackageTags>
+	<PackageProjectUrl>https://github.com/industriousone/industrious-mvvm</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/industriousone/industrious-mvvm</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
